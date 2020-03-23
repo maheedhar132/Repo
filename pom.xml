@@ -5,7 +5,7 @@
   <groupId>com.telusko</groupId>
   <artifactId>SpringDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>SpringDemo</name>
   <url>http://maven.apache.org</url>
